@@ -1,0 +1,93 @@
+/*STYLE JUMBOTRON2*/
+.jumbotron{
+
+    background-image: url(img/jumbotron1.jpg);
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+    margin-top: -120px;
+
+}
+
+
+.jumbotron .display-4 {
+
+    color: white;
+    margin-top: 200px;
+
+}
+
+
+.jumbotron .p1 {
+
+    color: white;
+    font-size: 25px;
+
+}
+
+
+.jumbotron .lead {
+
+    color: white;
+    font-size: 20px;
+
+}
+
+
+.jumbotron hr {
+
+    border-color: darkorange;
+    width: 150px;
+    border-width: 3px;
+
+}
+
+
+.jumbotron .btn {
+
+    background-color: darkorange;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+
+}
+
+
+
+/*STYLE SLIDE ATAU CAROUSEL*/
+.carousel-item {
+
+    height: 670px;
+
+}
+
+
+.carousel-item .display-4 {
+
+    margin-top: -460px;
+
+
+}
+
+
+.carousel-item hr {
+
+    border-color: darkorange;
+    width: 150px;
+    border-width: 3px;
+
+}
+
+
+.carousel-item .btn {
+
+    background-color: darkorange;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+
+}
+
+

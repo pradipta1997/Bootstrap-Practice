@@ -1,0 +1,23 @@
+.container{
+
+    width: 30%;
+    margin-top: 9%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.4);
+    padding: 40px;
+
+}
+
+button{
+
+    width: 48%;
+
+
+}
+
+
+.container hr {
+
+    border-color: aqua;
+    border-width: 2px;
+
+}
